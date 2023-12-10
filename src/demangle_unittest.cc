@@ -37,7 +37,7 @@
 #include <fstream>
 #include <string>
 #include "glog/logging.h"
-#include "demangle.h"
+#include "demangle_.h"
 #include "googletest.h"
 #include "config.h"
 

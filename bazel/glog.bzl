@@ -117,7 +117,7 @@ def glog_library(namespace = "google", with_gflags = 1, **kwargs):
             "src/base/googleinit.h",
             "src/base/mutex.h",
             "src/demangle.cc",
-            "src/demangle.h",
+            "src/demangle_.h",
             "src/logging.cc",
             "src/raw_logging.cc",
             "src/signalhandler.cc",

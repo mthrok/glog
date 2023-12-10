@@ -36,7 +36,7 @@
 
 #include <cstdio>  // for NULL
 #include "utilities.h"
-#include "demangle.h"
+#include "demangle_.h"
 
 #if defined(OS_WINDOWS)
 #include <dbghelp.h>
